@@ -1,0 +1,17 @@
+2020-06-15 09:52:56 [INFO] pandownload version: 2.2.2
+2020-06-15 09:52:58 [INFO] aria2 websocket connection opened (127.0.0.1:36853)
+2020-06-15 09:52:58 [INFO] aria2 version: 1.35.1
+2020-06-15 09:52:58 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36853/jsonrpc
+2020-06-15 09:52:58 [INFO] create main window
+2020-06-15 09:53:28 [INFO] verify cookie (701)
+2020-06-15 09:53:29 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-15 09:53:32 [INFO] user login success (428916913): uhuowa_com22
+2020-06-15 09:53:44 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="C:/Users/Administrator/Desktop/T气之子.日语特效中字.2019.BD1080P.H264.AAC.@微信公众号看剧堂.mp4" SIZE="3175245078"
+2020-06-15 09:53:44 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="C:/Users/Administrator/Desktop/T气之子.日语特效中字.2019.BD1080P.H264.AAC.@微信公众号看剧堂.mp4" SIZE="3175245078"
+2020-06-15 09:53:45 [WARN] ID#1 - 获取下载链接失败(2)(-1) FILE="C:/Users/Administrator/Desktop/T气之子.日语特效中字.2019.BD1080P.H264.AAC.@微信公众号看剧堂.mp4" SIZE="3175245078"
+2020-06-15 09:53:50 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2020-06-15 09:53:53 [WARN] request error (0x100000007): https://pan.baidu.com/api/list 
+2020-06-15 09:53:54 [INFO] close main window
+2020-06-15 09:53:54 [WARN] aria2 websocket connection closed (127.0.0.1:36853), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-15 09:53:55 [INFO] websocket client stop
+2020-06-15 09:53:55 [INFO] exit

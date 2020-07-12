@@ -1,0 +1,16 @@
+2020-06-15 10:40:12 [INFO] pandownload version: 2.2.2
+2020-06-15 10:40:14 [INFO] aria2 websocket connection opened (127.0.0.1:36946)
+2020-06-15 10:40:14 [INFO] aria2 version: 1.35.1
+2020-06-15 10:40:14 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36946/jsonrpc
+2020-06-15 10:40:14 [INFO] create main window
+2020-06-15 10:40:35 [INFO] verify cookie (700)
+2020-06-15 10:40:36 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-15 10:40:40 [INFO] user login success (428916913): uhuowa_com22
+2020-06-15 10:42:00 [INFO] verify cookie (712)
+2020-06-15 10:42:02 [WARN] get sign error: sign1= sign2= errmsg=
+2020-06-15 10:42:05 [INFO] user login success (428916913): uhuowa_com22
+2020-06-15 10:49:09 [INFO] close main window
+2020-06-15 10:49:09 [WARN] aria2 websocket connection closed (127.0.0.1:36946), code: 1000 (Normal close), reason: aria2 shutdown
+2020-06-15 10:49:10 [WARN] request error (0x100000007): https://pan.baidu.com/api/list 
+2020-06-15 10:49:10 [INFO] websocket client stop
+2020-06-15 10:49:11 [INFO] exit
